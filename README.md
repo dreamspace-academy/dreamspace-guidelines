@@ -14,11 +14,40 @@ A set of guidelines followed at DreamSpace as code of conduct.
 
 ## [Software Tools](#software-tools)
 
+### Management Tools
+
 - **Slack**
 
-  - https://dreamspace-academy.slack.com
+  - <https://dreamspace-academy.slack.com>
   - Internal Communication, Asynchronous Decision Making & Theme Based Channel.
   - Asynchronous decision-making is a strategy that enables geographically and culturally distributed teams to make decisions more efficiently.
+
+- **Trello**
+
+  - <https://trello.com>
+  - Project management with simple to-do list.
+
+- **Google Drive**
+
+  - <http://drive.google.com>
+  - Cloud file storage with real-time synchronization.
+
+- **Google Meet**
+
+  - <https://meet.google.com/syd-ekde-eof>
+  - To hold video conferences with people inside or outside the organization.
+
+### Development Tools
+
+- **Atom**
+
+  - <https://atom.io>
+  - Web Integrated Development Environment (IDE)
+
+- **SourceTree**
+
+  - <https://sourcetreeapp.com>
+  - Git Graphical User Interface (GUI)
 
 ## [References](#references)
 
