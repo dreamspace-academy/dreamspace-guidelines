@@ -1,6 +1,8 @@
 # Dreamspace Guidelines
 
-A set of guidelines followed at DreamSpace as code of conduct.
+A set of guidelines, code of conduct, best practices, co-governance & co-creation methodologies, software & hardware tools which are used at DreamSpace.
+
+It is everyone's responsibility at DreamSpace, to follow the guidelines, keep it updated, on-board new team members and correct the co-members who are not following the guidelines.
 
 - [Naming Convention](#naming-convention)
 - [Software Tools](#software-tools)
