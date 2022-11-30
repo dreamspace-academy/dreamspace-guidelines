@@ -1,6 +1,6 @@
 # www.dreamspace.academy
 
-## CONTRIBUTORS
+## Contributors
 
 - Aravinth Panch
 - Gunarakulan Gunaretnam
@@ -9,7 +9,7 @@
 - Jayanthan Amalanathan
 - Shanjeevan Amalanathan
 
-## SETUP
+## Setup
 
 - Download and install Visual Studio Code
 - Install VS Code extensions for development process
@@ -77,9 +77,9 @@
     - Implement new features and debug. The development processes are done inside this branch.
     - Merge to main branch after the successful practise.
 
-## GUIDELINES
+## Guidelines
 
-### DEVELOPMENT GUIDELINES
+### Development Guidelines
 
 - Step 01: Clone the repository
 
@@ -135,7 +135,7 @@
     git merge dev
     ```
 
-### GIT COMMIT GUIDELINES
+### Git Commit Guidelines
 
 - Conventional commits. https://medium.com/neudesic-innovation/conventional-commits-a-better-way-78d6785c2e08
 
@@ -165,7 +165,7 @@
 
   - revert: The commit reverts one or more commits that were previously included in the product, but were accidentally merged or serious issues were discovered that required their removal from the main branch.
 
-### DEPLOYMENT GUIDELINES
+### Deployment Guidelines
 
 - Step 01:
 
@@ -240,7 +240,7 @@
     ansible-config init --disabled -t all > ~/.config/ansible/ansible.cfg
     ```
 
-## PROJECT OVERVIEW
+## Project Overview
 
 <p align="center">
 <img src="../0-assets/0-images/web-screen.png">
