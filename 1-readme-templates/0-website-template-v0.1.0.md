@@ -137,7 +137,8 @@
 
 ### Git Commit Guidelines
 
-- Conventional commits. https://medium.com/neudesic-innovation/conventional-commits-a-better-way-78d6785c2e08
+- Conventional Commits: https://www.conventionalcommits.org/en/v1.0.0
+- Reference: https://medium.com/neudesic-innovation/conventional-commits-a-better-way-78d6785c2e08
 
   - feat: The commit implements a new feature for the application.
 
