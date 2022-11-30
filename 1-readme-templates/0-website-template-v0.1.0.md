@@ -72,8 +72,8 @@
 
 - Branches
 
-  - master: This is the main branch of the project. https://dreamspace.academy/pages/1-0-index.php
-  - dev: This is the sub branch. https://dev.dreamspace.academy/pages/1-0-index.php
+  - master: This is the main branch of the project: https://dreamspace.academy/pages/1-0-index.php
+  - dev: This is the sub branch: https://dev.dreamspace.academy/pages/1-0-index.php
     - Implement new features and debug. The development processes are done inside this branch.
     - Merge to main branch after the successful practise.
 
