@@ -243,8 +243,5 @@
 ## PROJECT OVERVIEW
 
 <p align="center">
-<img src="./assets/others/web-screen.png">
+<img src="../0-assets/0-images/web-screen.png">
 </p>
-
-
-
