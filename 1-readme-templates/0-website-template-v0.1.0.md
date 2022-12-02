@@ -25,9 +25,7 @@
 
   - Step 01:
 
-    - ```shell
-      Open gitbash
-      ```
+    - Open gitbash
 
   - Step 02:
 
