@@ -46,6 +46,12 @@
   - Step 05:
 
     - ```shell
+      git config --global user.signingkey "Your public key without quotes"
+      ```
+
+  - Step 06:
+
+    - ```shell
       git config --global commit.gpgsign true
       ```
 
